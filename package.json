@@ -6,8 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon --env-file=.env src/index.js",
-    "start": "node --env-file=.env src/index.js",
-    "vercel-build": "node --env-file=.env src/index.js"
+    "start": "node --env-file=.env src/index.js"
   },
   "author": "Prashant Negi",
   "license": "ISC",
